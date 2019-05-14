@@ -10,7 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/aramazdh/nodejs-webapp.git"
   },
-  "author": "Aramazd Hovhannisyan",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/aramazdh/nodejs-webapp/issues"
