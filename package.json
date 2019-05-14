@@ -4,13 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "eslint ./"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/aramazdh/nodejs-webapp.git"
   },
-  "author": "Aramazd Hovhannisyan",
+  "author": "Aramazd",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/aramazdh/nodejs-webapp/issues"
