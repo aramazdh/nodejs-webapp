@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aramazdh/nodejs-webapp/issues"
   },
-  "homepage": "https://github.com/aramazdh/nodejs-webapp#readme"
+  "homepage": "https://github.com/aramazdh/nodejs-webapp#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
 }
