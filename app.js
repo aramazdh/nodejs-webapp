@@ -1,3 +1,4 @@
+// creating server without express.js
 var http = require("http");
 var port = 9000;
 
