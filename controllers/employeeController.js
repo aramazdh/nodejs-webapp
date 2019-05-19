@@ -25,7 +25,6 @@ function insertRecord(req, res) {
         if (!err) {
             res.redirect('employee/list');
         } else {
-            console.log("err.name=" + err.name);
             if (err.name == 'ValidationError') {
                 handleValidationError(err, req.body);
                 res.render("employee/addOrEdit", {
